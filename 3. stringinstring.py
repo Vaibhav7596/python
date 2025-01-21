@@ -1,4 +1,4 @@
-#BY MAHIR SHAH
+#BY VAIBHAV SUTARIYA
 #STRING IN STRING
 def stringinstring(str1, str2):
     if str1 in str2:
@@ -11,4 +11,3 @@ def stringinstring(str1, str2):
 string1 = input("Enter the first string: ")
 string2 = input("Enter the second string: ")
 stringinstring(string1,string2)
-#BY MAHIR SHAH
