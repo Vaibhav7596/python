@@ -1,4 +1,4 @@
-#BY MAHIR SHAH
+#BY VAIBHAV SUTARIYA
 str = input("Enter a string of your choice: ")
 count = 0
 for i in str:
